@@ -41,7 +41,7 @@ export default class Level4 extends Phaser.Scene {
         this.ball = null;
         this.ballPositionX = 60;
         this.ballPositionY = 185;
-        this.boxNum = 0; 
+        this.boxNum = 1; 
         this.tlNum = 2;
         this.trNum = 2; 
         this.createInventory = true;
